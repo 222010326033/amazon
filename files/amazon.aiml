@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>I have no answer for that.</template>
+  </category>
+  <category>
+    <pattern>Hello </Hello>
+    <template>hello sir/ madam how can i assist you </Hello>
+  </category>
+  <category>
+    <pattern>Hello </How are you>
+    <template>hello sir/ madam how can i assist you </i'm good>
+  </category>
+  <category>
+    <pattern>Hello <I want to exchange my product . What is the process>
+    <template>hello sir/ madam how can i assist you </what product do you wat to exchange mam>
+  </category>
+  <category>
+    <pattern>Hello </my mobile>
+    <template>hello sir/ madam how can i assist you </ok mam>
+  </category>
+  <category>
+    <pattern>Hello </select the mobile you want to purchase , exchange option is shown below the product's description>
+    <template>hello sir/ madam how can i assist you </ok>
+  </category>
+  <category>
+    <pattern>Hello </did you get it mam>
+    <template>hello sir/ madam how can i assist you </yeah , thank you>
+  </category>
+  <category>
+    <pattern>Hello </my pleasure , please rate my service>
+    <template>hello sir/ madam how can i assist you </sure>
+  </category>
+</aiml>
+</aiml>
